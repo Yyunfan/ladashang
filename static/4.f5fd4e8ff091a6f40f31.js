@@ -1,0 +1,2 @@
+webpackJsonp([4],{17:function(o,s,t){o.exports=t.p+"static/concern-two.40ddf0e.jpg"},22:function(o,s,t){o.exports=" <div class=conWrap> <div class=concern-info></div> <div class=twocode> <img src="+t(17)+"> </div> <div class=changan> <p>长按识别二维码</p> </div> </div> "},28:function(o,s,t){var e,p;p=t(22),o.exports=e||{},o.exports.__esModule&&(o.exports=o.exports["default"]),p&&(("function"==typeof o.exports?o.exports.options||(o.exports.options={}):o.exports).template=p)}});
+//# sourceMappingURL=4.f5fd4e8ff091a6f40f31.js.map
