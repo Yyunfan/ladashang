@@ -1,6 +1,8 @@
 # ladashang
 
 > vue demo for ladashang
+
+
 ## Dependencies
 
 - vue
